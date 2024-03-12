@@ -30,3 +30,24 @@ Welcome to the Java Collections Framework (JCF) hierarchy guide! 🌟 This struc
 
 Explore each section to understand the features and use cases of these classes. 
 Happy coding! 🎓
+
+
+
+📁 Iterable
+   └── 📄 (files related to Iterable)
+
+📁 Collection
+   └── 📄 (files related to Collection)
+       └── 📁 List
+           ├── 📄 ArrayList.md
+           ├── 📄 LinkedList.md
+           └── 📄 Vector_Stack.md
+
+       └── 📁 Set
+           ├── 📄 HashSet.md
+           ├── 📄 LinkedHashSet.md
+           └── 📄 TreeSet.md
+
+       └── 📁 Queue
+           ├── 📄 PriorityQueue.md
+           └── 📄 LinkedList.md
