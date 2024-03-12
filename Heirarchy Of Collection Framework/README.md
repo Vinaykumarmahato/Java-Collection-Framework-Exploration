@@ -32,19 +32,18 @@ Explore each section to understand the features and use cases of these classes.
 Happy coding! 🎓
 
 
+📁 *Heirarchy Of Collection Framework*
+   └── 🖼️ *collection.jpeg*
 
-📁 **Heirarchy Of Collection Framework**
-   └── 🖼️ **collection.jpeg**
-
-📁 **Iterable**
+📁 *Iterable*
    └── 📄 *(files related to Iterable)*
 
-📁 **Collection**
+📁 *Collection*
    └── 📄 *(files related to Collection)*
-       └── 📁 **List**
-           ├── 📄 **ArrayList.md**
-           ├── 📄 **LinkedList.md**
-           └── 📄 **Vector_Stack.md**
+       └── 📁 **List*
+           ├── 📄 *ArrayList.md**
+           ├── 📄 *LinkedList.md**
+           └── 📄 *Vector_Stack.md**
 
        └── 📁 **Set**
            ├── 📄 **HashSet.md**
