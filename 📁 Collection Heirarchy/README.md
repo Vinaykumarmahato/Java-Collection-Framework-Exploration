@@ -1,4 +1,4 @@
-🌐 ![Project Image](/Heirarchy%20Of%20Collection%20Framework/collection.jpeg)
+![Project Image](/Heirarchy%20Of%20Collection%20Framework/collection.jpeg)
 
 # 🚀 Java Collections Framework Hierarchy
 
