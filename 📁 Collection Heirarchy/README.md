@@ -1,4 +1,4 @@
-![Project Image](/Heirarchy%20Of%20Collection%20Framework/collection.jpeg)
+![Project Image](/📁%20Collection%20Heirarchy/collection.jpeg)
 
 # 🚀 Java Collections Framework Hierarchy
 
@@ -24,6 +24,7 @@ Welcome to the Java Collections Framework (JCF) hierarchy guide! 🌟 This struc
     - **TreeSet:** Implements a sorted set.
 
   #### ⏰ Queue
+  
   - A collection designed for holding elements prior to processing.
     - **PriorityQueue:** Orders elements by priority.
     - **LinkedList:** Can function as a queue or a deque (double-ended queue).
