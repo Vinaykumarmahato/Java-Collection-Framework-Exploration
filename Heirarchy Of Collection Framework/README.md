@@ -33,21 +33,24 @@ Happy coding! 🎓
 
 
 
-📁 Iterable
-   └── 📄 (files related to Iterable)
+📁 **Heirarchy Of Collection Framework**
+   └── 🖼️ **collection.jpeg**
 
-📁 Collection
-   └── 📄 (files related to Collection)
-       └── 📁 List
-           ├── 📄 ArrayList.md
-           ├── 📄 LinkedList.md
-           └── 📄 Vector_Stack.md
+📁 **Iterable**
+   └── 📄 *(files related to Iterable)*
 
-       └── 📁 Set
-           ├── 📄 HashSet.md
-           ├── 📄 LinkedHashSet.md
-           └── 📄 TreeSet.md
+📁 **Collection**
+   └── 📄 *(files related to Collection)*
+       └── 📁 **List**
+           ├── 📄 **ArrayList.md**
+           ├── 📄 **LinkedList.md**
+           └── 📄 **Vector_Stack.md**
 
-       └── 📁 Queue
-           ├── 📄 PriorityQueue.md
-           └── 📄 LinkedList.md
+       └── 📁 **Set**
+           ├── 📄 **HashSet.md**
+           ├── 📄 **LinkedHashSet.md**
+           └── 📄 **TreeSet.md**
+
+       └── 📁 **Queue**
+           ├── 📄 **PriorityQueue.md**
+           └── 📄 **LinkedList.md**
