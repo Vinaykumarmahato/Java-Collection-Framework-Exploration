@@ -6,71 +6,59 @@ public class LinkedListImplementListAndDequeBoth {
     
     public static void main(String[] args) {
         
+       // Creating a LinkedList named ll1
        List ll1 = new LinkedList();
+
+       // Adding elements to ll1
        ll1.add(12);
        ll1.add(34);
        ll1.add(66);
 
-       // Lets See
-
-       
+       // Explanation: Let's see what ll1 can do
 
        /*
-        * When we declare the variable as LinkedList, it will implement both List and Deque interfaces.
-        * LinkedList class in Java implements both List and Deque interfaces.
-        * Therefore, by declaring the variable as LinkedList, we can utilize methods from both interfaces.
+        * Explanation: When we use LinkedList, it can do everything a List and a Deque can do.
+        * So, when we use LinkedList, we can use methods from both List and Deque.
         */
 
-        // Lets see some Method in List:
-
-        // get()
+        // get(): Retrieve an element from ll1
         ll1.get(3);
        System.out.println(ll1);
 
-       // IndesOf()
+       // IndesOf(): Find the index of an element in ll1
        System.out.println(ll1.indexOf(66));
 
-       //LastIndexOf()
+       //LastIndexOf(): Find the last index of an element in ll1
        System.out.println(ll1.lastIndexOf(66));
 
 
+       // Creating a new LinkedList named l
        LinkedList l=new LinkedList();
        l.add(210);
        l.add(23);
        l.add(90);
        l.add(555);
 
-       // getFirst()
+       // getFirst(): Retrieve the first element from l
        System.out.println(l.getFirst());
 
-       // getLast()
+       // getLast(): Retrieve the last element from l
        System.out.println(l.getLast());
 
-       //push()
-
+       //push(): Add an element to the beginning of l
        l.push(52);
        System.out.println(l);
 
-       // pop()
+       // pop(): Remove and retrieve the first element from l
        l.pop();
        System.out.println(l);
        
-
-
-
-
-
-
-
-
-        Deque ll = new LinkedList();
-
+       // Deque ll = new LinkedList();
 
         /*
-        * When we declare the variable as Deque, it will implement the Deque interface.
-        * LinkedList class in Java implements the Deque interface.
-        * Therefore, by declaring the variable as Deque and initializing it with a LinkedList object,
-        * we can utilize methods from the Deque interface.
+        * Explanation: When we use Deque, it means we want to use a double-ended queue.
+        * LinkedList can be used as a double-ended queue, so when we declare it as a Deque,
+        * we can use methods from the Deque interface.
         */
     }
 }
