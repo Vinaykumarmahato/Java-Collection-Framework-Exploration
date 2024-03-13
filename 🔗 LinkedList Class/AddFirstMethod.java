@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class PollMethod {
+public class AddFirstMethod {
     
     public static void main(String[] args) {
         
@@ -13,8 +13,10 @@ public class PollMethod {
         ll.add(30);
         ll.add(40);
 
-        // Retrieving and removing the first element of the LinkedList
-        // Output will be the first element, which is 10, and it will also be removed from the list
-        System.out.println(ll.poll());
+        // Adding the element 20 to the beginning of the LinkedList
+        ll.addFirst(20);
+
+        // Printing the LinkedList after adding the element
+        System.out.println(ll);
     }
 }
