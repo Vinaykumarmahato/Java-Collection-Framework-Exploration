@@ -13,7 +13,9 @@ public class PeekMethod {
         ll.add(300000);
 
         // Printing the result of ll.peek()
-        System.out.println(ll.peek());
+        System.out.println(ll.peek()); // peek() method in the LinkedList class is used to retrieve, but not remove,
+                                       // the first element of the list. It returns the head (first element) of the
+                                       // list, or null if the list is empty.
 
         // op is used to take the first object of the interface, o/p = 10000
     }
