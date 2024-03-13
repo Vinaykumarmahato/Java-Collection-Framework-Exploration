@@ -23,6 +23,7 @@ public class Explanation {
 
         // In collection it follow the Doubly LinkedList DS.Here the Data will be strore
         // in the node.
+        
 
     }
 }
