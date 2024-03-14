@@ -1,29 +1,11 @@
 import java.util.TreeSet;
 
 public class Explanation {
-<<<<<<< HEAD
-    
+
+
     public static void main(String[] args) {
-        
+
         TreeSet t = new TreeSet<>();
-        t.add(100);
-        t.add(23);
-        t.add(9);
-        t.add(90);
-        t.add(877);
-        t.add(45);
-        
-        System.out.println(t);
-        // It stores the data in a Binary Search Tree way.
-        // The data will be in sorted order.
-
-        // output:
-        // [9, 23, 45, 90, 100, 877]
-=======
-
-    public static void main(String[] args) {
-
-        TreeSet<Integer> t = new TreeSet<>();
         t.add(100);
         t.add(50);
         t.add(150);
@@ -73,6 +55,5 @@ public class Explanation {
          * 
          */
 
->>>>>>> 18b65ec1b8892a1304e24cfadcc3c19352da0fd0
     }
 }
