@@ -45,8 +45,9 @@ public class Explanation {
         while (litr.hasPrevious()) {
 
             System.out.println(litr.previous());
-            
+
         }
 
     }
+
 }
