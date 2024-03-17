@@ -2,9 +2,10 @@ import java.util.TreeSet;
 
 public class Explanation {
 
+
     public static void main(String[] args) {
 
-        TreeSet<Integer> t = new TreeSet<>();
+        TreeSet t = new TreeSet<>();
         t.add(100);
         t.add(50);
         t.add(150);
@@ -19,6 +20,7 @@ public class Explanation {
         // In TreeSet, it follows the Binary Search Tree DS. Here the Data will
         // be stored in the node.
         /*
+        
          * Algorithm:
          * 1. First element will be the root node.
          * 
