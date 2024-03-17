@@ -42,5 +42,11 @@ public class Explanation {
 
         ListIterator litr = al.listIterator(al.size());
 
+        while (litr.hasPrevious()) {
+
+            System.out.println(litr.previous());
+            
+        }
+
     }
 }
