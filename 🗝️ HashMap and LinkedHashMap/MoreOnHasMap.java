@@ -1,4 +1,6 @@
 import java.util.*;
+import java.util.Map .*;
+
 
 class Student {
 
@@ -49,6 +51,22 @@ public class MoreOnHasMap {
         map.put(03, s3);
 
         System.out.println(map);
+
+        // Both Key and Value will be print here
+        Set key1=map.entrySet();
+
+        Iterator itr1=key1.iterator();
+        while (itr1.hasNext()) 
+        {
+         //System.out.println(itr1);  it will print
+
+         // lets store it
+            Map.Entry bothdata=(Entry)itr1.next();
+
+            System.out.println(bothdata.getKey() +":"+ bothdata.getValue());
+         
+         
+        }
 
     }
 }
