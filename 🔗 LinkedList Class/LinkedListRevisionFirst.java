@@ -8,6 +8,7 @@ public class LinkedListRevisionFirst {
 
         // Create a LinkedList 'll' to store integers
         LinkedList ll = new LinkedList();
+        
 
         // Add elements to 'll'
         ll.add(10); // Add integer 10
