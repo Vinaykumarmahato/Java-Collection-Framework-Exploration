@@ -6,6 +6,7 @@ public class Explanation {
     public static void main(String[] args) {
 
         TreeSet t = new TreeSet<>();
+        
         t.add(100);
         t.add(50);
         t.add(150);
