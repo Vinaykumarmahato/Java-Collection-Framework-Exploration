@@ -5,6 +5,7 @@ public class Explanation { // Declaring a public class named Explanation
     public static void main(String[] args) { // Declaring the main method
 
         ArrayDeque ad1 = new ArrayDeque(); // Creating a new instance of ArrayDeque named ad1
+        
 
         // Adding elements to the ArrayDeque
         ad1.add(100); // Adding the integer 100 to the ArrayDeque ad1
