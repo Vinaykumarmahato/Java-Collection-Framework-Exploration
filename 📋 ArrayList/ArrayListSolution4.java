@@ -11,5 +11,6 @@ public class ArrayListSolution4 {
         al.add(30);
         System.out.println(al);
         
+        
     }
 }
