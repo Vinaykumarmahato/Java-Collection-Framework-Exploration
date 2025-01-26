@@ -7,6 +7,7 @@ public class ExplanationOFBothLinkedHsahSetAndHashSet {
         // HashSet: it will not preserve the order of insertion
         // Introduced in Java 1.2
 
+        
         HashSet hs1 = new HashSet();
         hs1.add(200);
         hs1.add(300);
