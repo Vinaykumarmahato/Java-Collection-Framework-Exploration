@@ -4,6 +4,7 @@ public class SomeInbuiltMethodInTreeSet {
 
     public static void main(String[] args) {
 
+        
         // Creating a TreeSet
         TreeSet<Integer> ts = new TreeSet<>();
 
