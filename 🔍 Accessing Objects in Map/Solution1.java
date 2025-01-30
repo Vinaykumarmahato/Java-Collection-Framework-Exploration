@@ -7,7 +7,6 @@ public class Solution1 {
 
         // Create a HashMap instance called 'map'
         Map map = new HashMap();
-
         // Print a separator line
         System.out.println("----------------------------------");
 
