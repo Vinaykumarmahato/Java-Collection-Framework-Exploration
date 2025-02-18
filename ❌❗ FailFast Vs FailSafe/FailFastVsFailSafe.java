@@ -6,6 +6,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 
 public class FailFastVsFailSafe {
 
+    
     public static void main(String[] args) {
         // Fail-Fast Example
         List<Integer> failFastList = new ArrayList<>();
