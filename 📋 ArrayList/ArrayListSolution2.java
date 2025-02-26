@@ -15,6 +15,7 @@ public class ArrayListSolution2 {
 
         // Contains() used for check the values whether given value is in arraylist or not
 
+        
         al1.contains(4000);
         System.out.println(al1);
 
